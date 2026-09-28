@@ -1,2 +1,2 @@
-# c-starter-projects
+# starter-projects
 keep this as a code base for learning c++
